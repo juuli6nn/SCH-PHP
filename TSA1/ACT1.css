@@ -112,28 +112,18 @@ select:focus {
     width: 400px;
     padding: 14px 18px;
     border: none;
-    background-color: #1f5fbf;
-    color: white;
-    font-size: 0.96rem;
-    font-weight: 700;
-    cursor: pointer;
-    transition: background-color 0.2s ease;
-    margin: 24px auto 0;
-    display: block;
-}
+        background-color: #F02A2A;
+        color: white;
+        font-size: 0.96rem;
+        font-weight: 700;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+        margin: 24px auto 0;
+        display: block;
+    }
 
-.submit-button:hover {
-    background-color: #174e95;
-}
-
-.return-button {
-    position: fixed;
-    text-align: center;
-    top: 30px;
-    left: 30px;
-    width: 56px;
-    height: 56px;
-    padding: 8px 16px;
+    .submit-button:hover {
+        background-color: #c12828;
     background-color: #ffffff;
     color: #222;
     text-decoration: none;
